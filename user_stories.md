@@ -1,16 +1,14 @@
-# User Stories
+### User Story 1 – View Appointments
 
-## Doctor
-- As a doctor, I want to view my appointments so that I can manage my daily schedule.
-- As a doctor, I want to update patient treatment details so that medical records stay current.
-- As a doctor, I want to see patient history so that I can provide better treatment.
+Role: Doctor
 
-## Patient
-- As a patient, I want to book an appointment so that I can meet a doctor.
-- As a patient, I want to view my appointment details so that I know the date and time of my visit.
-- As a patient, I want to cancel an appointment so that I can reschedule if needed.
+Description:
+As a doctor, I want to view my scheduled appointments so that I can manage my daily patient visits.
 
-## Admin
-- As an admin, I want to manage doctor records so that the hospital database stays updated.
-- As an admin, I want to manage patient records so that all patient information is organized.
-- As an admin, I want to monitor appointments so that the hospital workflow runs smoothly.
+Priority: High  
+Story Points: 3
+
+Acceptance Criteria:
+- Doctor can login to the portal
+- Doctor can view a list of appointments
+- Each appointment shows patient name, date, and time
